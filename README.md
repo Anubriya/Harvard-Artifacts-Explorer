@@ -23,10 +23,8 @@ Project Files
 - harvard_artifacts.db → SQLite database file (generated after inserting data)  
 
 How to Run the Project  
-1. Clone or Download the Repository  
-   git clone https://github.com/your-username/harvard-artifacts-project.git  
-   cd harvard-artifacts-project  
-
+1. Download the Repository  
+  
 2. Install Required Packages  
    pip install streamlit pandas requests  
 
