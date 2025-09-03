@@ -19,8 +19,11 @@ Tech Stack
 - Pandas and Requests (data handling and API calls)  
 
 Project Files  
-- harvard_artifacts.py → Main Streamlit app code  
-- harvard_artifacts.db → SQLite database file (generated after inserting data)  
+- final.py → Main Streamlit app code  
+- harvard_artifacts.db → SQLite database file (generated after inserting data)
+- Project Report
+- Project PPT
+- Screenshots
 
 How to Run the Project  
 1. Download the Repository  
