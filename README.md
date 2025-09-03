@@ -32,11 +32,11 @@ How to Run the Project
    pip install streamlit pandas requests  
 
 3. Run the Streamlit App  
-   streamlit run harvard_artifacts.py  
+   streamlit run final.py  
 
 4. Interact with the Application  
    - Choose a classification  
-   - Fetch artifacts (approx. 2500 objects)  
+   - Fetch artifacts (greater than or equal to 2500 objects)  
    - View metadata, media, and color tables  
    - Insert into database  
    - Select SQL queries from dropdown and view results  
@@ -47,7 +47,7 @@ The app provides 30 SQL queries under categories:
 - Media Queries (5)  
 - Colors Queries (5)  
 - Join Queries (5)  
-- DIY Queries (10 simple extra queries)  
+- DIY Queries (10 extra queries)  
 
 Each query can be executed with one click, and results are shown in a Streamlit dataframe.   
 
